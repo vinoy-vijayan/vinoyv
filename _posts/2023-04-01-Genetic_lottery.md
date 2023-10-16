@@ -3,6 +3,7 @@
 layout: post
 title: Picking the winning genetic numbers
 ---
+
 *Status: Highly speculative*
 
 Genes have an influence on life outcomes - intelligence, educational attainment, "success" in the many ways as defined in society. What would you have to do to give your children the 'best' genes? There are two options - edit the genes of your future child or pick one embryo out of many to become your future child. The latter option is at our doorstep today.
