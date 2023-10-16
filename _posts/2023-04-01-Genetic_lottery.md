@@ -1,8 +1,8 @@
-
 ---
 layout: post
 title: Picking the winning genetic numbers
 ---
+
 
 *Status: Highly speculative*
 
