@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seen and Unseen
+title: A renaissance for neurodegenerative research
 ---
 
 
