@@ -1,3 +1,9 @@
+---
+layout: post
+title: Seen and Unseen
+---
+
+
 As I travel through Europe, I arrive upon yet another church. And in it is yet still more christian imagery. One more picture of Madonna and Child. Why so many painting of the same image by some of the best minds of our generation. 
 Because that is what they were given the money for. The broad outline of how art evolved in Europe would be that the art followed the money. When the catholic church was the primary source of income for artists, what you got was christian imagery. Then came the Renaissance and art exploded. We got new ideas, new techniques and artists could do so much more. The best artists of a new generation did not have to keep painting Madonna and child. Or the piety of christ. 
 What we're willing to fund and support has an influence of what the creative minds of our generation will be able to do. In our society today, we see in the scientific research also. Lets drill down into research that goes on in neurodegeneration research also. We have acceptable ideas - the toxicity of protein aggregates, the death of dopaminergic neurons. These are like the Madonna and child of our disease research. If you want to do something, this is where you go. It doesn't matter what your skills are. I am going to model brain organoids, I am going to create micro-chips where I will use stem cells to create an artificial human neuronal circuit, - in all cases, what you will do after that is ask - how does synuclein aggregates affect it. What causes the dopaminergic neuron to do. 
