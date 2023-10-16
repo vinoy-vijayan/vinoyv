@@ -5,6 +5,7 @@ title: A renaissance for neurodegenerative research
 
 *Status: Rough draft*
 
+
 As I travel through Europe, I arrive upon yet another church. And in it is yet still more christian imagery. One more picture of Madonna and Child. Why so many painting of the same image by some of the best minds of our generation. 
 
 Because that is what they were given the money for. The broad outline of how art evolved in Europe would be that the art followed the money. When the catholic church was the primary source of income for artists, what you got was christian imagery. Then came the Renaissance and art exploded. We got new ideas, new techniques and artists could do so much more. The best artists of a new generation did not have to keep painting Madonna and child. Or the piety of christ. 
