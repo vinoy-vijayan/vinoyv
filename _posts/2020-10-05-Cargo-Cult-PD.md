@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Seen and Unseen
+title: Cargo Cult Parkinsons
 ---
+
+*Status: Exploring an idea*
 
 For the native population of the far-away South Pacific islands, the years of the Second World War were a tumultuous time. Successive waves of Japanese and American troops arrived on their secluded islands, established military bases, and brought in all kinds of modern goods - chocolate, cans, radios. These goods, or 'cargo,' changed the way of life of the islanders who came to possess them. They had found an escape door straight to modernity. But just as quickly as the Americans or Japanese had arrived, they left. Literally overnight, the long runways and military base buildings they had constructed stood empty, and the goods had disappeared. The islanders were mystified. Where were they to get the goods from again? How were they to bring prosperity back into their lives?
 
